@@ -1,0 +1,132 @@
+{
+    "Pop Rock": [
+        "Araw-Araw",
+        "Estranghero",
+        "Hey Jude",
+        "Wonderwall"
+    ],
+    "Pop": [
+        "Bad Decisions",
+        "Be Alright",
+        "Dangerous Woman",
+        "Everyday",
+        "Fireball (feat. John Ryan)",
+        "Greedy",
+        "Ikaw Pa Rin Ang Pipiliin Ko",
+        "Imagine",
+        "Into You",
+        "Knew Better / Forever Boy",
+        "Leave Me Lonely",
+        "Leonora",
+        "Let Me Love You",
+        "ME! (feat. Brendon Urie of Panic! At The Disco)",
+        "Moonlight",
+        "Raining In Manila",
+        "RomCom",
+        "Shake It Off",
+        "Side To Side",
+        "Sinta",
+        "Sometimes",
+        "Thinking Bout You",
+        "Tingin",
+        "Touch It",
+        "Unang Sayaw",
+        "We Found Love",
+        "You Belong With Me"
+    ],
+    "Alternative": [
+        "Isip",
+        "Line Without a Hook",
+        "The Only Exception",
+        "What Was I Made For? (From The Motion Picture \"Barbie\")"
+    ],
+    "Dance Pop": [
+        "Makudonarudo"
+    ],
+    "Folk Pop": [
+        "Paninindigan Kita",
+        "Pelikula",
+        "Sa Susunod na Habang Buhay"
+    ],
+    "Jazz": [
+        "'Round Midnight",
+        "A Love Supreme, Pt. 1: Acknowledgement",
+        "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+        "Autumn Leaves",
+        "Blue Monk",
+        "Feeling Good",
+        "My Favorite Things",
+        "So What",
+        "Take Five"
+    ],
+    "Hard Rock": [
+        "Back In Black",
+        "Smells Like Teen Spirit"
+    ],
+    "Blues/R&B": [
+        "Bad To The Bone",
+        "If I Had Money",
+        "Midnight Healing",
+        "Stormy Monday",
+        "Sunshine Of Your Love",
+        "The Thrill Is Gone"
+    ],
+    "Country": [
+        "Before He Cheats",
+        "Dear John",
+        "Fancy",
+        "Fearless",
+        "Friends in Low Places",
+        "Heart Like A Truck",
+        "Highway Don't Care",
+        "I Walk the Line",
+        "If I Die Young",
+        "Man! I Feel Like A Woman!",
+        "Picture To Burn",
+        "Something in the Orange",
+        "Wake Me Up"
+    ],
+    "Rock": [
+        "Bohemian Rhapsody",
+        "Born Under Bad Sign",
+        "Comfortably Numb",
+        "Don't Stop Believin' (Live at The Summit, Houston, Texas, November 6, 1981 - 2022 Remaster)",
+        "Free Bird",
+        "Hotel California",
+        "Livin' On A Prayer",
+        "November Rain",
+        "Paint It, Black",
+        "Purple Haze",
+        "Stairway to Heaven",
+        "We Will Rock You"
+    ],
+    "Folk": [
+        "Born to Run",
+        "Like a Rolling Stone"
+    ],
+    "Soft Rock": [
+        "Every Breath You Take"
+    ],
+    "Electropop": [
+        "Happier Than Ever"
+    ],
+    "Electronic": [
+        "Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack) [DJ LBR Remix]",
+        "One More Time",
+        "Summertime",
+        "Symphony (feat. Zara Larsson)",
+        "Titanium (feat. Sia)"
+    ],
+    "House": [
+        "Summer"
+    ],
+    "Unknown Genre": [
+        "Sweet Child O' Mine"
+    ],
+    "Ambient": [
+        "This Is What You Came For"
+    ],
+    "null": [
+        "Sweet Child O' Mine"
+    ]
+}
